@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning CSS, JavaScript, Front-end and Back-end developement 
+- 🌱 I’m currently learning : CSS, JavaScript, Python Front-end and Back-end developement 
 - 📫 How to reach me: manargh4@gmail.com
 - ⚡ Fun fact: Exams and midterms are my least favorite part of student life.
   
