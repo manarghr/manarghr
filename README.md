@@ -10,4 +10,4 @@ Here's a bit about what I'm up to:
 - ⚡ Fun fact: I cry over code sometimes lol.
   
 
-![Profile Views](https://github.com/antonkomarev/github-profile-views-counter/blob/master/svg/manarghr)
+![](https://komarev.com/ghpvc/?username=manarghr&color=green)
