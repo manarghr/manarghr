@@ -9,3 +9,4 @@ Here's a bit about what I'm up to:
 - 📫 How to reach me: manargh4@gmail.com
 - ⚡ Fun fact: I cry over code sometimes lol.
   
+https://komarev.com/ghpvc/?username=manarghr
