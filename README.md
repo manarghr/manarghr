@@ -12,6 +12,5 @@ Here's a bit about what I'm up to:
 
 ![](https://komarev.com/ghpvc/?username=manarghr&color=green)
 
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg)](https://instagram.com/maanaarrr0)
 
 
