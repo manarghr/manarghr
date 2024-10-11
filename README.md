@@ -12,4 +12,5 @@ Here's a bit about what I'm up to:
 
 ![](https://komarev.com/ghpvc/?username=manarghr&color=green)
 
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://instagram.com/maanaarrr0)
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/6/6c/Instagram_Logo_2016.svg)](https://instagram.com/maanaarrr0)
+
