@@ -5,7 +5,7 @@
 
 Here's a bit about what I'm up to:
 
-- 🌱 I’m currently learning : CSS, JavaScript, Front-end and Back-end developement .
+- 🌱 I’m currently learning : JavaScript, Front-end and Back-end developement .
 - 📫 How to reach me: manargh4@gmail.com
 
   
